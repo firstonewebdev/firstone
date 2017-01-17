@@ -1,1 +1,2 @@
-firstone theme
+# theme
+first one WordPress theme
